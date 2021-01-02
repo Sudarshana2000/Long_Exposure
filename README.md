@@ -9,7 +9,7 @@ Make sure that the input video is time-lapse with static background and duration
 
 <div style="float:left">
 <div style="float:left"><img width="45%" src="https://github.com/Sudarshana2000/Long_Exposure/blob/master/images/IMG1.jpg" />
-<img width="45%" src="https://github.com/Sudarshana2000/Long_Exposure/blob/master/images/output/OUTPUT1.jpg" />
+<img width="45%" src="https://github.com/Sudarshana2000/Long_Exposure/blob/master/images/OUTPUT1.jpg" />
 </div>
 <br /><br />
 
